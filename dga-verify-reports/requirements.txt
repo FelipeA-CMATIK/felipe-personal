@@ -1,0 +1,6 @@
+google-cloud-tasks
+sqlalchemy~=1.4.31
+pg8000
+pymongo
+
+#
